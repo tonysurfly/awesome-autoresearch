@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alvinreal-awesome-autoresearch-badge.png)](https://mseep.ai/app/alvinreal-awesome-autoresearch)
+
 <div align="center">
 
 # 🔬 Awesome Autoresearch
